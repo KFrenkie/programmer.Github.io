@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sriracha&display=swap');
+
+h1 {
+color: green;
+font-family: 'Roboto', sans-serif;
+
+}
+
+#bioHeader{
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+#skillsHeader {
+    color:yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+p{
+font-family: 'Sriracha', cursive;
+font-size: 24px;
+color:grey;
+}
+
+img{
+height: 200px;
+
+}
